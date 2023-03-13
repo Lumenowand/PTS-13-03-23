@@ -1,0 +1,9 @@
+h1 {
+    background-color: rgb(242, 255, 0);
+    width: fit-content
+}
+.text {
+    background-color: blue;
+    margin: 100px;
+    padding: 50px;
+}
